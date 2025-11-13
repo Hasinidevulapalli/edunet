@@ -24,3 +24,12 @@ button {
 button:hover {
   background-color: #004999;
 }
+
+.image{
+  width: 300px;
+  margin-top: 30px;
+}
+
+.message{
+  margin: 10px;
+}
